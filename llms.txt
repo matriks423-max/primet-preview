@@ -1,0 +1,42 @@
+# PRIMET
+
+> PRIMET (SIA Primet) is a Latvian manufacturer of custom industrial equipment for food processing, cosmetics, pharmaceutical production and metalworking. We design, fabricate, install and service stainless steel (AISI 304/316) machinery and complete production lines, built to order. 300+ projects across Latvia and the Baltics since 2015.
+
+Key facts:
+- Location: Krustpils iela 4, Riga, LV-1073, Latvia
+- Contact: info@primet.lv, +371 2 9252149
+- Materials: food-grade AISI 304 / 316 stainless steel; washdown-ready, HACCP/GMP compliant
+- Model: custom engineering to order — design, fabrication, installation, operator training, on-site service
+- Industries: fish, meat, dairy, vegetables & berries, cosmetics, pharmaceutical, metalworking
+- Languages: Latvian (/lv), English (/en), Russian (/ru)
+
+## Main pages
+- [Home](https://primet.pro/en)
+- [Equipment](https://primet.pro/en/iekartas)
+- [Process](https://primet.pro/en/procesi)
+- [About](https://primet.pro/en/par-mums)
+- [Service](https://primet.pro/en/serviss)
+- [Contact](https://primet.pro/en/kontakti)
+- [Production line configurator](https://primet.pro/en/konfigurators)
+
+## Industries
+- [Equipment for the Fish Industry](https://primet.pro/en/zivju-industrija)
+- [Equipment for Meat Industry](https://primet.pro/en/galas-industrija)
+- [Equipment for Dairy Industry](https://primet.pro/en/piena-industrija)
+- [Equipment for Vegetable and Fruit Industry](https://primet.pro/en/darzenu-industrija)
+- [Equipment for Cosmetics and Pharmaceuticals](https://primet.pro/en/kosmetikas-industrija)
+- [Equipment for Medical Industry](https://primet.pro/en/medicinas-industrija)
+
+## Equipment categories
+- [Conveyor and Transporter Systems](https://primet.pro/en/konveijeri)
+- [Packaging](https://primet.pro/en/iepakosana)
+- [Washing and Drying Equipment](https://primet.pro/en/mazgasanas-iekartas)
+- [Sterilization Equipment](https://primet.pro/en/tvaicesanas-iekartas)
+- [Workbenches, Tubs and Accessories](https://primet.pro/en/darba-galdi)
+- [Accumulation Stations](https://primet.pro/en/uzkrasanas-mezgli)
+- [Metal Processing](https://primet.pro/en/metalapstrade)
+
+## Processes
+- [Primary Processing](https://primet.pro/en/pirmapstrade)
+- [Processing](https://primet.pro/en/apstrade)
+- [Food Processing](https://primet.pro/en/pecapstrade)
